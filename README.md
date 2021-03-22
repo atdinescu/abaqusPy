@@ -1,4 +1,5 @@
 # abaqusPy
+* Python scripts to run input files and extract reaction force or displacement results from output database (.odb)
 
 Can run Abaqus input file via command line using
 ```
