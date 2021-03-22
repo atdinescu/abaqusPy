@@ -1,4 +1,4 @@
-# Abaqus_scripts
+# abaqusPy
 
 Can run Abaqus input file via command line using
 ```
