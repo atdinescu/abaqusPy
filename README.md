@@ -3,7 +3,7 @@
 
 Can run Abaqus input file via command line using
 ```
-abq2021 job="nameofinputfile" interactive
+call abq2021 job="nameofinputfile" interactive
 ```
 
 Can extract reaction force using python script (make sure to change file name and directory)
